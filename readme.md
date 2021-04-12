@@ -4,7 +4,7 @@ I'm Rafael and I really like developing software and learning about it.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&show_icons=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&custom_title=Linguagens+Usadas+nos+Projetos)
 
 ![Linguagem Favorita](https://img.shields.io/badge/Linguagem%20favorita-Delphi-blue)
 
