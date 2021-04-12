@@ -6,7 +6,7 @@ I'm Rafael and I really like developing software and learning about it.
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&custom_title=Linguagens+Usadas+nos+Projetos)
 
-![Linguagem Favorita](https://img.shields.io/badge/Linguagem%20favorita-Delphi-blue)
+Linguagem de trabalho e estudo: ![Linguagem Favorita](https://img.shields.io/badge/-Delphi-blue?style=for-the-badge)
 
 # Seja bem vindo a minha conta do Github
 
