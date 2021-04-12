@@ -2,7 +2,7 @@
 
 I'm Rafael and I really like developing software and learning about it.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&custom_title=Estatísticas+do+Github+do+Rafael+Alves&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/rafael-figueiredo-alves)
 
