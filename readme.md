@@ -1,7 +1,7 @@
 ![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Intro.png)
 
 
-<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Portuguese.png" height="40" with="40"> You can also read this information on my profile in Portuguese if you want by [clicking here](https://www.google.com)
+<a href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Portuguese.png" height="40" with="40"></a> You can also read this information on my profile in Portuguese if you want.
 
 I'm Rafael and I really like developing software and learning about it.
 
