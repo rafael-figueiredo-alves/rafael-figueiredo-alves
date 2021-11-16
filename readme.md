@@ -1,6 +1,6 @@
-# Welcome to my Github account
+![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Intro.png?raw=true)
 
-![MinhaFoto](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/perfil_octo.png)
+
 I'm Rafael and I really like developing software and learning about it.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&show_icons=true)
