@@ -1,5 +1,7 @@
-![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Intro.png?raw=true)
+![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Intro.png)
 
+
+You can also read this information on my profile in Portuguese if you want. ![Portuguese](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Portuguese.png)[portugues](www.google.com)
 
 I'm Rafael and I really like developing software and learning about it.
 
