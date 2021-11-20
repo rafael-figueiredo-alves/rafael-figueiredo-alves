@@ -1,10 +1,7 @@
 <p align="right">Leia este documento também em português <a href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Portuguese.png" height="30" with="30"></a></p>
 
 ![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Intro.png)
-
 # Index
----
-
 <a href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_aboutme.png" height="30" with="30"></a>
 
 
