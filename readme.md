@@ -10,12 +10,12 @@
 <a id="Menu_Projects" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_projects.png" height="30" with="30"></a>
 <a id="Menu_Statistics" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_statistics.png" height="30" with="30"></a>
 <a id="Menu_keepInTouch" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_keepintouch.png" height="30" with="30"></a>
-   
 
-   
 # About me
 
+Hi, there! My name's Rafael de Figueiredo Alves. I'm a 37-year-old father of two children: my daughter Rafaela and my son Davi. I've been an English teacher for about 15 years, most of them at CCAA. Now I'd like to become a software developer. I've been studying really hard to become a great developer. I've been learning and working with **Delphi** since I was 12 years old. Recently, I've been studying a lot of stuff related to **HTML5, CSS3 and JavaScript** and I'm really into **ReactJS** now.
 
+My wife and kids are the secret of my success because they are the reason to keep me going and learning everything about computer programming.
 
 
 
