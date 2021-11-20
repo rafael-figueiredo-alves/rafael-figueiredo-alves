@@ -3,7 +3,7 @@
 ![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Intro.png)
 
 # INDEX
-<a id="Menu_AboutMe" href="#teste 1"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_aboutme.png" height="30" with="30"></a>
+<a id="Menu_AboutMe" href="#about"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_aboutme.png" height="30" with="30"></a>
 <a id="Menu_Languages" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_languages.png" height="30" with="30"></a>
 <a id="Menu_Tools" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_tools.png" height="30" with="30"></a>
 <a id="Menu_experience" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_experience.png" height="30" with="30"></a>
@@ -41,4 +41,4 @@ Linguagens de trabalho e estudo: ![Linguagem Favorita](https://img.shields.io/ba
 
 Sistemas Operacionais que eu desenvolvo para: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![MacOS](https://img.shields.io/badge/-MacOS-Black?style=for-the-badge&logo=apple&logoColor=white)
 
-# teste 1
+<a name="about"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_keepintouch.png" height="30" with="30"></a>
