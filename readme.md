@@ -1,7 +1,7 @@
 <p align="right">Leia este documento também em português <a href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Portuguese.png" height="30" with="30"></a></p>
 
 ![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Intro.png)
-# Index
+!# INDEX
 <a id="Menu_AboutMe" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_aboutme.png" height="30" with="30"></a>
 <a id="Menu_Languages" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_languages.png" height="30" with="30"></a>
 <a id="Menu_Tools" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_tools.png" height="30" with="30"></a>
@@ -9,19 +9,13 @@
 <a id="Menu_Projects" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_projects.png" height="30" with="30"></a>
 <a id="Menu_Statistics" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_statistics.png" height="30" with="30"></a>
 <a id="Menu_keepInTouch" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_keepintouch.png" height="30" with="30"></a>
+   
+# About me
 
 
 
 
 
-
-
-
-
-
-
-
-I'm Rafael and I really like developing software and learning about it.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&show_icons=true)
 
