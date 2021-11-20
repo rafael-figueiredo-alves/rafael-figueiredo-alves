@@ -2,8 +2,8 @@
 
 ![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Intro.png)
 
-<a name="Index"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Index.png" height="40"></a><br>
-<a id="Menu_AboutMe" href="#about"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_aboutme.png" height="40"></a>
+<a name="Index"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Index.png"></a><br>
+<a id="Menu_AboutMe" href="#About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_aboutme.png" height="40"></a>
 <a id="Menu_Languages" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_languages.png" height="40"></a>
 <a id="Menu_Tools" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_tools.png" height="40"></a>
 <a id="Menu_experience" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_experience.png" height="40"></a>
@@ -11,7 +11,7 @@
 <a id="Menu_Statistics" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_statistics.png" height="40"></a>
 <a id="Menu_keepInTouch" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_keepintouch.png" height="40"></a>
 
-# About me
+<a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/about.png"></a><br>
 
 Hi, there! My name's Rafael de Figueiredo Alves. I'm a 37-year-old father of two children: my daughter Rafaela and my son Davi. I've been an English teacher for about 15 years, most of them at CCAA. Now I'd like to become a software developer. I've been studying really hard to become a great developer. I've been learning and working with **Delphi** since I was 12 years old. Recently, I've been studying a lot of stuff related to **HTML5, CSS3 and JavaScript** and I'm really into **ReactJS** now.
 
