@@ -38,8 +38,21 @@
 
 # Office
 
-<img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/excel.png"> <img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/word.png"> <img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/powerpoint.png"> <img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Access.png">
+<img id="Excel" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/excel.png"> <img id="Word" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/word.png"> <img id="PowerPoint" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/powerpoint.png"> <img id="Access" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Access.png">
 
+<p align="justify">I simply love working with Excel, Word and PowerPoint. I made a lot of great spreadsheets on Excel while I worked at CCAA. Some were to help me and other teachers keep track on students grades and performance, and others were to help my coordinators and directors manage the school more effectively. I have a repository called <b><a href="https://github.com/rafael-figueiredo-alves/Excel-VBA">Excel-VBA</a></b> where I've got some of the spreadsheets and other stuff I made for the school I worked for.</p>
+
+# Databases
+
+<img id="Firebase" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Firebase.png"> <img id="SQLServer" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/sqlserver.png"> <img id="MySql" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/mysql.png"> <img id="MongoDB" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/mongodb.png"> <img id="SQLite" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/sqlite.png">
+
+# UI, UX, Design and Image Editing
+
+<img id="Lunacy" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/lunacy.png"> <img id="Figma" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/figma.png"> <img id="GIMP" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/gimp.png">
+
+# Code Editor and Git tools
+
+<img id="vscode" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/vscode.png"> <img id="github" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/github_2.png"> <img id="GIT" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/git.png"> <img id="GITLab" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/gitlab.png"> <img id="npm" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/npm.png">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&show_icons=true)
 
