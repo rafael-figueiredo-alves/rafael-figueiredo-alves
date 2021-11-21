@@ -19,6 +19,14 @@
 
 <p align="justify">I haven't worked as developer yet, but I've developed a lot of kinds of softwares on my own and I also developed some solutions to the place (CCAA) where I worked for almost 13 years. I developed spreadsheets to help my workplace, as I did by developing some pieces of software using Delphi. The goal of all the softwares and solutions I developed was to help automate the processes at my workplace.</p> 
 
+<p align="justify">Here are some of the operating systems I develop or I have plans to develop for:</p>
+
+<img id="Windows" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Windows.png"> <img id="Android" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Android.png"> <img id="iOS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/iOS.png"> <img id="Web" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Web.png"> <img id="MacOS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/MacOS.png"> <img id="Linux" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Linux.png">
+
+<p align="justify">Here are some platforms I develop or I'd like to develop for:</p>
+
+<img id="Desktop" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/desktop_2.png"> <img id="smartphone" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/smartphone.png"> <img id="tablet" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/tablet.png"> <img id="Notebook" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/notebook.png"> <img id="Web" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/site_web.png"> <img id="Smartwatch" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/watch.png">
+
 <a name="Languages"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/languages.png"></a><br>
 
 <p align="justify">Here are some of the programming languages I've been learning and I've also been working with:</p>
@@ -65,4 +73,6 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&custom_title=Languages+Used+in+Projects)
 </p>
 
-<a name="KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/keepinTouch.png" height="30" with="30"></a>
+<a name="KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/keepinTouch.png"></a><br>
+
+<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/statistics.png">
