@@ -81,7 +81,7 @@
 <a name="Projects"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/projects.png"></a><br>
 
 <figure>
-   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eTasks.png" height="25%">
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eTasks.png" height="25" width="25">
    <figcaption>My latest personal project <a href="https://github.com/rafael-figueiredo-alves/eTasks">eTasks</a> is a simple, but funny to-do app</figcaption>
 </figure>   
 
