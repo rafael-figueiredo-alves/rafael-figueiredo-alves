@@ -75,4 +75,10 @@
 
 <a name="KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/keepinTouch.png"></a><br>
 
-<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/statistics.png">
+<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/gmail.png">
+
+<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Github.png">
+
+<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/linkedin.png">
+
+<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/site.png">
