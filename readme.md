@@ -15,10 +15,28 @@
 
 <p align="justify">Hi, there! My name's Rafael de Figueiredo Alves. I'm a 37-year-old father of two children: my daughter Rafaela and my son Davi. I've been an English teacher for about 15 years, most of them at CCAA. Now I'd like to become a software developer. I've been studying really hard to become a great developer. I've been learning and working with <b>Delphi</b> since I was 12 years old. Recently, I've been studying a lot of stuff related to <b>HTML5, CSS3 and JavaScript</b> and I'm really into <b>ReactJS</b> now.</p>
 
-<p align="justify">My wife and kids are the secret of my success because they are the reason to keep me going and learning everything about computer programming</p>
+<p align="justify">My wife and kids are the secret of my success because they are the reason to keep me going and learning everything about computer programming.</p>
 
+<p align="justify">I haven't worked as developer yet, but I've developed a lot of kinds of softwares on my own and I also developed some solutions to the place (CCAA) where I worked for almost 13 years. I developed spreadsheets to help my workplace, as I did by developing some pieces of software using Delphi. The goal of all the softwares and solutions I developed was to help automate the processes at my workplace.</p> 
 
+<a name="Languages"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/languages.png"></a><br>
 
+<p align="justify">Here are some of the programming languages I've been learning and I've also been working with:</p>
+
+<img id="Delphi" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/delphi.png">
+<img id="Lazarus" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/lazarus.png">
+<img id="Python" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Python.png">
+<img id="HTML5" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/HTML5.png">
+<img id="CSS3" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/CSS3.png">
+<img id="JavaScript" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/JavaScript.png">
+<img id="Bootstrap" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Bootstrap.png">
+<img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/ReactJS.png">
+
+<p align="justify">I've been learning <b>Delphi</b> and working with it since I was 12 years old. At that time, my brother brought home a CD with Delphi 2 and I immediatelly fell in love with the language. Easy and powerfull, I've developed a lot of kinds of solutions on it: from a mobile to-do like app to a sofisticated software to evaluate teachers that presents questions randomly and collects voice from the candidates and lets the people from the teaching department have a sample of their English skills. I developed solutions for Windows and Android, but I can develop stuff for iOS and MacOS too. The only reason I didn't do it was because I don't have an Apple computer and I don't have an iPhone either.</p>
+
+<p align="justify">I want to learn <b>Lazarus</b> and I plan to work with it as well as with Delphi. It's a powerfull language that can make apps for a lot of platforms, just like Delphi. In addition to Lazarus, I really have plans to learn <b>Python</b> and integrate it to Delphi to make a great solution.</p>
+
+<p align="justify">Recently, I've been studying <b>HTML5</b>, <b>CSS3</b> and <b>JavaScript</b> and I got really into <b>ReactJS</b>. I can see how powerfull this knowledge can be to my future. I'm investing time making stuff with these technologies and I plan to use them as much as I can.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&show_icons=true)
 
