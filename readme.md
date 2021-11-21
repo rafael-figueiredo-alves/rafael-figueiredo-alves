@@ -94,17 +94,17 @@
 ## My email adress is:
 [rafael.figueiredo.alves@gmail.com](mailto:rafael.figueiredo.alves@gmail.com)
 
-<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Github.png">
+<img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Github.png">
 
 ## My Github account is:
 [https://github.com/rafael-figueiredo-alves](https://github.com/rafael-figueiredo-alves)
 
-<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/linkedin.png">
+<img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/linkedin.png">
 
 ## Check out my Linkedin
 [linkedin](linkedin)
 
-<img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/site.png">
+<img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/site.png">
 
 ## Finally, here's the site I built for myself
 [https://rafael-figueiredo-alves.github.io/](https://rafael-figueiredo-alves.github.io/)
