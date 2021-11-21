@@ -23,10 +23,7 @@
 
 <p align="justify">Here are some of the programming languages I've been learning and I've also been working with:</p>
 
-<img id="Delphi" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/delphi.png">
-<img id="Lazarus" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/lazarus.png">
-<img id="Python" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Python.png">
-<img id="HTML5" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/HTML5.png">
+<img id="Delphi" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/delphi.png"> <img id="Lazarus" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/lazarus.png"> <img id="Python" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Python.png"> <img id="HTML5" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/HTML5.png">
 <img id="CSS3" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/CSS3.png">
 <img id="JavaScript" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/JavaScript.png">
 <img id="Bootstrap" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Bootstrap.png">
