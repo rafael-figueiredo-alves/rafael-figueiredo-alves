@@ -13,7 +13,7 @@
 
 <a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/about.png"></a><br>
 
-<p align="justify">Hi, there! My name's Rafael de Figueiredo Alves. I'm a 37-year-old father of two children: my daughter Rafaela and my son Davi. I've been an English teacher for about 15 years, most of them at CCAA. Now I'd like to become a software developer. I've been studying really hard to become a great developer. I've been learning and working with **Delphi** since I was 12 years old. Recently, I've been studying a lot of stuff related to **HTML5, CSS3 and JavaScript** and I'm really into **ReactJS** now. </p>
+<p align="justify">Hi, there! My name's Rafael de Figueiredo Alves. I'm a 37-year-old father of two children: my daughter Rafaela and my son Davi. I've been an English teacher for about 15 years, most of them at CCAA. Now I'd like to become a software developer. I've been studying really hard to become a great developer. I've been learning and working with <strong>Delphi</strong> since I was 12 years old. Recently, I've been studying a lot of stuff related to <strong>HTML5, CSS3 and JavaScript</strong> and I'm really into <strong>ReactJS</strong> now. </p>
 
 <p align="justify">My wife and kids are the secret of my success because they are the reason to keep me going and learning everything about computer programming</p>
 
