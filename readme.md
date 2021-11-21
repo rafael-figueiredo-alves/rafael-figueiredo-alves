@@ -72,7 +72,18 @@
 
 <a name="Experience"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/experience.png"></a><br>
 
+<p align="justify">I haven't officially worked as a developer yet, but I've done a lot of developing while I was working as an English teacher.</p>
+<p align="justify">Well, I've been an English teacher for about 15 years. The last 13 years, I worked for CCAA, a major English school here in Brazil. I probably taught hundreds of students, some have become teachers as well. I also became the proctor at a TOEFL exam. In 2021, I worked as a coordinator and helped the teachers who were working online providing information and make it easy for them to manage the information through online spreadsheets on Onedrive.</p>
+<p align="justify">As I said, I didn't work as a developer officially, but I developed at least 15 pieces of software for my workplace. Besides, I wrote scripts for SQL Server and developed many spreadsheets to help manage the school information. Additionally, I worked with their social networking marketing, creating posts and managing their Ads online.</p>
+<p align="justify">The apps that I created helped the school a lot, and I have two of them here in my Github (<a href="https://github.com/rafael-figueiredo-alves/eRAMs">eRAMs</a> and <a href="https://github.com/rafael-figueiredo-alves/eAtasOrais">eAtasOrais</a>). Unfortunately, for some of these apps, I don't have their source codes anymore, and I don't have screenshots either. One of the most admirable apps I've built for CCAA was an app that helps the school's teachers hiring. It had a questionaire of randomic questions, some with audio like international exams and a last exercises that asked to record the candidate's voice answering a question presented on the screen. Later, the employers could download all the information and check it out and also filter for the kind of candidates they wanted.</p>
+<p align="justify">Another app I created for them was called Desk. It was a set of some extra functions that were not available on the application they used to manage all the information of the students and classes.</p>
+
 <a name="Projects"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/projects.png"></a><br>
+
+<figure>
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eTasks.png" height="50%">
+   <figcaption>My latest personal project <a href="https://github.com/rafael-figueiredo-alves/eTasks">eTasks</a> is a simple, but funny to-do app</figcaption>
+</figure>   
 
 <a name="Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/statistics.png"></a><br>
 
@@ -102,9 +113,15 @@
 <img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/linkedin.png">
 
 ## Check out my Linkedin
-[linkedin](linkedin)
+[www.linkedin.com/in/rafael-de-figueiredo-alves](www.linkedin.com/in/rafael-de-figueiredo-alves)
 
 <img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/site.png">
 
 ## Finally, here's the site I built for myself
 [https://rafael-figueiredo-alves.github.io/](https://rafael-figueiredo-alves.github.io/)
+
+
+
+Thank you very much for reading my profile
+
+<p align="right">Rafael de Figueiredo Alves</p>
