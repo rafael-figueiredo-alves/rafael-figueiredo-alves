@@ -77,7 +77,9 @@
 
 <img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/gmail.png"> 
 
-# Meu email é wwwwwwww
+# My email adress is:
+![email](mailto:rafael.figueiredo.alves@gmail.com)
+<br>
 
 <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Github.png">
 
