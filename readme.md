@@ -75,7 +75,9 @@
 
 <a name="KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/keepinTouch.png"></a><br>
 
-<img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/gmail.png">Meu email é wwwwwwww
+<img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/gmail.png"> 
+
+# Meu email é wwwwwwww
 
 <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Github.png">
 
