@@ -32,7 +32,14 @@
 
 <p align="justify">Recently, I've been studying <b>HTML5</b>, <b>CSS3</b> and <b>JavaScript</b> and I got really into <b>ReactJS</b>. I can see how powerfull this knowledge can be to my future. I'm investing time making stuff with these technologies and I plan to use them as much as I can.</p>
 
-<a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/about.png"></a><br>
+<a name="Tools"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/tools.png"></a><br>
+
+<p align="justify">I've used and learned a really huge set of tools that I used at my work as an English teacher and a digital marketing agent. I surely have plans to use them now that I'll be a software developer. Let me show them in categories.</p>
+
+# Office
+
+<img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/excel.png"> <img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/word.png"> <img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/powerpoint.png"> <img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Access.png">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&show_icons=true)
 
