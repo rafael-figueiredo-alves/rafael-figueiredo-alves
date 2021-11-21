@@ -54,13 +54,21 @@
 
 <img id="Firebase" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Firebase.png"> <img id="SQLServer" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/sqlserver.png"> <img id="MySql" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/mysql.png"> <img id="MongoDB" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/mongodb.png"> <img id="SQLite" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/sqlite.png">
 
+<p align="justify">My experience with databases includes SQL and no-SQL databases. I worked with SQL Server for a long time. The school I worked for used to use a program to manage the students and other stuff that took advantage of this powerfull database and I learned the structure of this database really well. I developed a lot of scripts (some running on Excel and some on my own apps) to work with ths database. Recently, I've been really interested in no-SQL databases like MongoDB and Firebase. Concerning Firebase, I'm making a framework to let Delphi and Lazarus take advantage of it.</p>
+
 # UI, UX, Design and Image Editing
 
 <img id="Lunacy" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Lunacy.png"> <img id="Figma" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Figma.png"> <img id="GIMP" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Gimp.png">
 
+<p align="justify">When it comes to designing, I love using Lunacy from Icons8. It's a great app, very simple and powerfull. I developed posts for social network sites and I develop the prototypes of my apps (eTasks prototype was entirely developed on Lunacy). I have watched some viodeos on Figma, I think it's interesting, but I really prefer Lunacy (even though I don't mind using any other design tool). To work with images, besides PowerPoint, I like to work with Gimp. It's free and it has really good resources.</p>
+
 # Code Editor and Git tools
 
 <img id="vscode" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/VSCode.png"> <img id="github" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Github_2.png"> <img id="GIT" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Git.png"> <img id="GITLab" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/gitlab.png"> <img id="npm" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/npm.png">
+
+<p align="justify">Since I've been developing in Delphi for a long time, I only knew the IDE of Rad Studio and its code editor. But recently I found out about Visual Studio Code. It's an amazing editor and makes my job more interesting and simpler.</p>
+<p align="justify">To version my software, I started using Git and Github and I really like both. For me, Github is an incredible source of inspiration and an amazing tool to manage all my source code. However, I'll take some time learning about Gitlab and Bitbucket.</p>
+<p align="justify">NPM is now one of my favorite tools since I started to learn ReactJS and I plan to work with it to make my web apps.</p>
 
 <a name="Experience"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/experience.png"></a><br>
 
@@ -68,22 +76,35 @@
 
 <a name="Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/statistics.png"></a><br>
 
+<p align="justify">Here comes some interesting numbers from my Github account and all the repositories I have. I hope you enjoy checking it out and it gives you a brief view of what I've been doing.</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&show_icons=true)
+
+<p align="justify">Check out how much I've been working (writing) in each of the languages I support.</p>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&custom_title=Languages+Used+in+Projects)
 </p>
 
 <a name="KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/keepinTouch.png"></a><br>
 
+<p align="justify">If you want to contact me to hire my services as a software developer or even give me a remote job, here are my most valuable channels of communication.</p>
+
 <img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/gmail.png"> 
 
 ## My email adress is:
 [rafael.figueiredo.alves@gmail.com](mailto:rafael.figueiredo.alves@gmail.com)
 
-<br>
-
 <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Github.png">
+
+## My Github account is:
+[https://github.com/rafael-figueiredo-alves](https://github.com/rafael-figueiredo-alves)
 
 <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/linkedin.png">
 
+## Check out my Linkedin
+[linkedin](linkedin)
+
 <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/site.png">
+
+## Finally, here's the site I built for myself
+[https://rafael-figueiredo-alves.github.io/](https://rafael-figueiredo-alves.github.io/)
