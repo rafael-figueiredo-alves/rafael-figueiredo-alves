@@ -87,6 +87,7 @@
    <figcaption>My latest personal project <a href="https://github.com/rafael-figueiredo-alves/eTasks">eTasks</a> is a simple, but funny to-do app</figcaption>
 </figure>
 
+
 <p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eTasks"><b>eTasks</b></a> is my latest project. It's a to-do app focused on managing tasks in a funny way. Besides, it lets you register your personal goals and keep track on supermarket lists in a easy and funny way. I used Delphi to make it. I built it for Windows (32x and 64x) and for Android. It was a great learning experience. Some of the things I learned are:</p>
 
 + MVC
