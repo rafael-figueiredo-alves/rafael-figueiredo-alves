@@ -38,7 +38,7 @@
 
 <p align="justify">I want to learn <b>Lazarus</b> and I plan to work with it as well as with Delphi. It's a powerful language that can make apps for a lot of platforms, just like Delphi. In addition to Lazarus, I really have plans to learn <b>Python</b> and integrate it to Delphi to make a great solution.</p>
 
-<p align="justify">Recently, I've been studying <b>HTML5</b>, <b>CSS3</b> and <b>JavaScript</b> and I got really into <b>React.JS</b>. I can see how powerfull this knowledge can be to my future. I'm investing time making stuff with these technologies and I plan to use them as much as I can.</p>
+<p align="justify">Recently, I've been studying <b>HTML5</b>, <b>CSS3</b> and <b>JavaScript</b> and I got really into <b>React.JS</b>. I can see how powerful this knowledge can be to my future. I'm investing time making stuff with these technologies and I plan to use them as much as I can.</p>
 
 <a name="Tools"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/tools.png"></a><br>
 
