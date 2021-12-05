@@ -80,26 +80,56 @@
 
 <a name="Projects"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/projects.png"></a><br>
 
+## eTasks
+
 <figure>
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eTasks.png">
    <figcaption>My latest personal project <a href="https://github.com/rafael-figueiredo-alves/eTasks">eTasks</a> is a simple, but funny to-do app</figcaption>
 </figure>
 
 <p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eTasks"><b>eTasks</b></a> is my latest project. It's a to-do app focused on managing tasks in a funny way. Besides, it lets you register your personal goals and keep track on supermarket lists in a easy and funny way. I used Delphi to make it. I built it for Windows (32x and 64x) and for Android. It was a great learning experience. Some of the things I learned are:</p>
-* MVC
-* Clean code
-* Interfaces on Delphi
-* Android permissions
-* Firebase
-* Keyboard tricks
-* Android development
-* Building components
++ MVC
++ Clean code
++ Interfaces on Delphi
++ Android permissions
++ Firebase
++ Keyboard tricks
++ Android development
++ Building components
+
+## Desk
 
 <figure>
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Desk_1.png">
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Desk_2.png">   
-   <figcaption>My latest personal project <a href="https://github.com/rafael-figueiredo-alves/eTasks">eTasks</a> is a simple, but funny to-do app</figcaption>
+   <figcaption>This was an important project for me at my workplace, but, unfortunately, I don't have the source code anymore.</figcaption>
 </figure>
+
+<p align="justify"><b>Desk</b> is one of my first big projects. It was an application focused on providing some extra functions to the main software my workplace used to use. It helped reduce the amount of paper my workplace used. Some of the things I learned are:</p>
++ Using Paradox and SQL Server
++ CRUD
++ SQL scripts
++ Making stunning interfaces (UI and UX experience)
+
+## eAtasOrais
+
+<figure>
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eAtasOrais.png">
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eAtasOrais_2.png">
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eAtasOrais_3.png">
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eAtasOrais_4.png">
+   <figcaption>A powerful app to automate the process of making a document to register the grades of students in a oral exam. It's a good example of integrating Delphi and VBA (Excel)</figcaption>
+</figure>
+
+<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eAtasOrais"><b>eAtasOrais</b></a> is my latest project. It's a to-do app focused on managing tasks in a funny way. Besides, it lets you register your personal goals and keep track on supermarket lists in a easy and funny way. I used Delphi to make it. I built it for Windows (32x and 64x) and for Android. It was a great learning experience. Some of the things I learned are:</p>
++ MVC
++ Clean code
++ Interfaces on Delphi
++ Android permissions
++ Firebase
++ Keyboard tricks
++ Android development
++ Building components
 
 <a name="Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/statistics.png"></a><br>
 
