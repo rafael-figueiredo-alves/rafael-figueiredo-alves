@@ -88,6 +88,7 @@
 </figure>
 
 <p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eTasks"><b>eTasks</b></a> is my latest project. It's a to-do app focused on managing tasks in a funny way. Besides, it lets you register your personal goals and keep track on supermarket lists in a easy and funny way. I used Delphi to make it. I built it for Windows (32x and 64x) and for Android. It was a great learning experience. Some of the things I learned are:</p>
+
 + MVC
 + Clean code
 + Interfaces on Delphi
@@ -106,6 +107,7 @@
 </figure>
 
 <p align="justify"><b>Desk</b> is one of my first big projects. It was an application focused on providing some extra functions to the main software my workplace used to use. It helped reduce the amount of paper my workplace used. Some of the things I learned are:</p>
+
 + Using Paradox and SQL Server
 + CRUD
 + SQL scripts
@@ -122,6 +124,7 @@
 </figure>
 
 <p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eAtasOrais"><b>eAtasOrais</b></a> is my latest project. It's a to-do app focused on managing tasks in a funny way. Besides, it lets you register your personal goals and keep track on supermarket lists in a easy and funny way. I used Delphi to make it. I built it for Windows (32x and 64x) and for Android. It was a great learning experience. Some of the things I learned are:</p>
+
 + MVC
 + Clean code
 + Interfaces on Delphi
