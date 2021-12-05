@@ -11,7 +11,7 @@
 <a id="Menu_Statistics" href="#Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/menu_estat%C3%ADsticas.png" height="40"></a>
 <a id="Menu_keepInTouch" href="#KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/menu_meuscontatos.png" height="40"></a>
 
-<a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/about.png"></a><br>
+<a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/sobremim.png"></a><br>
 
 <p align="justify">Hi, there! My name's Rafael de Figueiredo Alves. I'm a 37-year-old father of two children: my daughter Rafaela and my son Davi. I've been an English teacher for about 15 years, most of them at CCAA. Now I'd like to become a software developer. I've been studying really hard to become a great developer. I've been learning and working with <b>Delphi</b> since I was 12 years old. Recently, I've been studying a lot of stuff related to <b>HTML5, CSS3 and JavaScript</b> and I'm really into <b>React.JS</b> now.</p>
 
@@ -27,7 +27,7 @@
 
 <img id="Desktop" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/desktop_2.png"> <img id="smartphone" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/smartphone.png"> <img id="tablet" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/tablet.png"> <img id="Notebook" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/notebook.png"> <img id="Web" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/site_web.png"> <img id="Smartwatch" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/watch.png">
 
-<a name="Languages"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/languages.png"></a><br>
+<a name="Languages"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/linguagens.png"></a><br>
 
 <p align="justify">Here are some of the programming languages I've been learning and I've also been working with:</p>
 
@@ -40,7 +40,7 @@
 
 <p align="justify">Recently, I've been studying <b>HTML5</b>, <b>CSS3</b> and <b>JavaScript</b> and I got really into <b>React.JS</b>. I can see how powerfull this knowledge can be to my future. I'm investing time making stuff with these technologies and I plan to use them as much as I can.</p>
 
-<a name="Tools"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/tools.png"></a><br>
+<a name="Tools"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/Ferramentas.png"></a><br>
 
 <p align="justify">I've used and learned a really huge set of tools that I used at my work as an English teacher and a digital marketing agent. I surely have plans to use them now that I'll be a software developer. Let me show them in categories.</p>
 
@@ -70,7 +70,7 @@
 <p align="justify">To version my software, I started using Git and Github and I really like both. For me, Github is an incredible source of inspiration and an amazing tool to manage all my source code. However, I'll take some time learning about Gitlab and Bitbucket.</p>
 <p align="justify">NPM is now one of my favorite tools since I started to learn React.JS and I plan to work with it to make my web apps.</p>
 
-<a name="Experience"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/experience.png"></a><br>
+<a name="Experience"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/experi%C3%AAncia.png"></a><br>
 
 <p align="justify">I haven't officially worked as a developer yet, but I've done a lot of developing while I was working as an English teacher.</p>
 <p align="justify">Well, I've been an English teacher for about 15 years. The last 13 years, I worked for CCAA, a major English school here in Brazil. I probably taught hundreds of students, some have become teachers as well. I also became the proctor at a TOEFL exam. In 2021, I worked as a coordinator and helped the teachers who were working online providing information and make it easy for them to manage the information through online spreadsheets on Onedrive.</p>
@@ -78,7 +78,7 @@
 <p align="justify">The apps that I created helped the school a lot, and I have two of them here in my Github (<a href="https://github.com/rafael-figueiredo-alves/eRAMs">eRAMs</a> and <a href="https://github.com/rafael-figueiredo-alves/eAtasOrais">eAtasOrais</a>). Unfortunately, for some of these apps, I don't have their source codes anymore, and I don't have screenshots either. One of the most admirable apps I've built for CCAA was an app that helps the school's teachers hiring. It had a questionaire of randomic questions, some with audio like international exams and a last exercise that asked to record the candidate's voice answering a question presented on the screen. Later, the employers could download all the information and check it out and also filter for the kind of candidates they wanted.</p>
 <p align="justify">Another app I created for them was called <b>Desk</b>. It was a set of some extra functions that were not available on the application they used to manage all the information of the students and classes.</p>
 
-<a name="Projects"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/projects.png"></a><br>
+<a name="Projects"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/projetos.png"></a><br>
 
 ## eTasks
 
