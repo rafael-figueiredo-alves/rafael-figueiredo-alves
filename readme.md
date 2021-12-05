@@ -6,14 +6,14 @@
 <a id="Menu_AboutMe" href="#About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_aboutme.png" height="40"></a>
 <a id="Menu_Languages" href="#Languages"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_languages.png" height="40"></a>
 <a id="Menu_Tools" href="#Tools"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_tools.png" height="40"></a>
-<a id="Menu_experience" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_experience.png" height="40"></a>
-<a id="Menu_Projects" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_projects.png" height="40"></a>
-<a id="Menu_Statistics" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_statistics.png" height="40"></a>
-<a id="Menu_keepInTouch" href="https://www.google.com"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_keepintouch.png" height="40"></a>
+<a id="Menu_experience" href="#Experience"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_experience.png" height="40"></a>
+<a id="Menu_Projects" href="#Projects"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_projects.png" height="40"></a>
+<a id="Menu_Statistics" href="#Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_statistics.png" height="40"></a>
+<a id="Menu_keepInTouch" href="#KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_keepintouch.png" height="40"></a>
 
 <a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/about.png"></a><br>
 
-<p align="justify">Hi, there! My name's Rafael de Figueiredo Alves. I'm a 37-year-old father of two children: my daughter Rafaela and my son Davi. I've been an English teacher for about 15 years, most of them at CCAA. Now I'd like to become a software developer. I've been studying really hard to become a great developer. I've been learning and working with <b>Delphi</b> since I was 12 years old. Recently, I've been studying a lot of stuff related to <b>HTML5, CSS3 and JavaScript</b> and I'm really into <b>ReactJS</b> now.</p>
+<p align="justify">Hi, there! My name's Rafael de Figueiredo Alves. I'm a 37-year-old father of two children: my daughter Rafaela and my son Davi. I've been an English teacher for about 15 years, most of them at CCAA. Now I'd like to become a software developer. I've been studying really hard to become a great developer. I've been learning and working with <b>Delphi</b> since I was 12 years old. Recently, I've been studying a lot of stuff related to <b>HTML5, CSS3 and JavaScript</b> and I'm really into <b>React.JS</b> now.</p>
 
 <p align="justify">My wife and kids are the secret of my success because they are the reason to keep me going and learning everything about computer programming.</p>
 
@@ -34,11 +34,11 @@
 <img id="Delphi" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/delphi.png"> <img id="Lazarus" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/lazarus.png"> <img id="Python" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Python.png"> <img id="HTML5" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/HTML5.png">
 <img id="CSS3" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/CSS3.png"> <img id="JavaScript" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/JavaScript.png"> <img id="Bootstrap" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Bootstrap.png"> <img id="ReactJS" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/ReactJS.png">
 
-<p align="justify">I've been learning <b>Delphi</b> and working with it since I was 12 years old. At that time, my brother brought home a CD with Delphi 2 and I immediatelly fell in love with the language. Easy and powerfull, I've developed a lot of kinds of solutions on it: from a mobile to-do like app to a sofisticated software to evaluate teachers that presents questions randomly and collects voice from the candidates and lets the people from the teaching department have a sample of their English skills. I developed solutions for Windows and Android, but I can develop stuff for iOS and MacOS too. The only reason I didn't do it was because I don't have an Apple computer and I don't have an iPhone either.</p>
+<p align="justify">I've been learning <b>Delphi</b> and working with it since I was 12 years old. At that time, my brother brought home a CD with Delphi 2 and I immediatelly fell in love with the language. Easy and powerful, I've developed a lot of kinds of solutions on it: from a mobile to-do like app to a sofisticated software to evaluate teachers that presents questions randomly and collects voice from the candidates and lets the people from the teaching department have a sample of their English skills. I developed solutions for Windows and Android, but I can develop stuff for iOS and MacOS too. The only reason I didn't do it was because I don't have an Apple computer and I don't have an iPhone either.</p>
 
-<p align="justify">I want to learn <b>Lazarus</b> and I plan to work with it as well as with Delphi. It's a powerfull language that can make apps for a lot of platforms, just like Delphi. In addition to Lazarus, I really have plans to learn <b>Python</b> and integrate it to Delphi to make a great solution.</p>
+<p align="justify">I want to learn <b>Lazarus</b> and I plan to work with it as well as with Delphi. It's a powerful language that can make apps for a lot of platforms, just like Delphi. In addition to Lazarus, I really have plans to learn <b>Python</b> and integrate it to Delphi to make a great solution.</p>
 
-<p align="justify">Recently, I've been studying <b>HTML5</b>, <b>CSS3</b> and <b>JavaScript</b> and I got really into <b>ReactJS</b>. I can see how powerfull this knowledge can be to my future. I'm investing time making stuff with these technologies and I plan to use them as much as I can.</p>
+<p align="justify">Recently, I've been studying <b>HTML5</b>, <b>CSS3</b> and <b>JavaScript</b> and I got really into <b>React.JS</b>. I can see how powerfull this knowledge can be to my future. I'm investing time making stuff with these technologies and I plan to use them as much as I can.</p>
 
 <a name="Tools"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/tools.png"></a><br>
 
@@ -54,13 +54,13 @@
 
 <img id="Firebase" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Firebase.png"> <img id="SQLServer" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/sqlserver.png"> <img id="MySql" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/mysql.png"> <img id="MongoDB" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/mongodb.png"> <img id="SQLite" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/sqlite.png">
 
-<p align="justify">My experience with databases includes SQL and no-SQL databases. I worked with SQL Server for a long time. The school I worked for used to use a program to manage the students and other stuff that took advantage of this powerfull database and I learned the structure of this database really well. I developed a lot of scripts (some running on Excel and some on my own apps) to work with ths database. Recently, I've been really interested in no-SQL databases like MongoDB and Firebase. Concerning Firebase, I'm making a framework to let Delphi and Lazarus take advantage of it.</p>
+<p align="justify">My experience with databases includes SQL and no-SQL databases. I worked with SQL Server for a long time. The school I worked for used to use a program to manage the students and other stuff that took advantage of this powerful database and I learned the structure of this database really well. I developed a lot of scripts (some running on Excel and some on my own apps) to work with this database. Recently, I've been really interested in no-SQL databases like MongoDB and Firebase. Concerning Firebase, I'm making a framework to let Delphi and Lazarus take advantage of it.</p>
 
 # UI, UX, Design and Image Editing
 
 <img id="Lunacy" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Lunacy.png"> <img id="Figma" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Figma.png"> <img id="GIMP" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Gimp.png">
 
-<p align="justify">When it comes to designing, I love using Lunacy from Icons8. It's a great app, very simple and powerfull. I developed posts for social network sites and I develop the prototypes of my apps (eTasks prototype was entirely developed on Lunacy). I have watched some viodeos on Figma, I think it's interesting, but I really prefer Lunacy (even though I don't mind using any other design tool). To work with images, besides PowerPoint, I like to work with Gimp. It's free and it has really good resources.</p>
+<p align="justify">When it comes to designing, I love using Lunacy from Icons8. It's a great app, very simple and powerful. I developed posts for social networking sites and I develop the prototypes of my apps (eTasks prototype was entirely developed on Lunacy). I have watched some viodeos on Figma, I think it's interesting, but I really prefer Lunacy (even though I don't mind using any other design tool). To work with images, besides PowerPoint, I like to work with Gimp. It's free and it has really good resources.</p>
 
 # Code Editor and Git tools
 
@@ -68,22 +68,38 @@
 
 <p align="justify">Since I've been developing in Delphi for a long time, I only knew the IDE of Rad Studio and its code editor. But recently I found out about Visual Studio Code. It's an amazing editor and makes my job more interesting and simpler.</p>
 <p align="justify">To version my software, I started using Git and Github and I really like both. For me, Github is an incredible source of inspiration and an amazing tool to manage all my source code. However, I'll take some time learning about Gitlab and Bitbucket.</p>
-<p align="justify">NPM is now one of my favorite tools since I started to learn ReactJS and I plan to work with it to make my web apps.</p>
+<p align="justify">NPM is now one of my favorite tools since I started to learn React.JS and I plan to work with it to make my web apps.</p>
 
 <a name="Experience"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/experience.png"></a><br>
 
 <p align="justify">I haven't officially worked as a developer yet, but I've done a lot of developing while I was working as an English teacher.</p>
 <p align="justify">Well, I've been an English teacher for about 15 years. The last 13 years, I worked for CCAA, a major English school here in Brazil. I probably taught hundreds of students, some have become teachers as well. I also became the proctor at a TOEFL exam. In 2021, I worked as a coordinator and helped the teachers who were working online providing information and make it easy for them to manage the information through online spreadsheets on Onedrive.</p>
 <p align="justify">As I said, I didn't work as a developer officially, but I developed at least 15 pieces of software for my workplace. Besides, I wrote scripts for SQL Server and developed many spreadsheets to help manage the school information. Additionally, I worked with their social networking marketing, creating posts and managing their Ads online.</p>
-<p align="justify">The apps that I created helped the school a lot, and I have two of them here in my Github (<a href="https://github.com/rafael-figueiredo-alves/eRAMs">eRAMs</a> and <a href="https://github.com/rafael-figueiredo-alves/eAtasOrais">eAtasOrais</a>). Unfortunately, for some of these apps, I don't have their source codes anymore, and I don't have screenshots either. One of the most admirable apps I've built for CCAA was an app that helps the school's teachers hiring. It had a questionaire of randomic questions, some with audio like international exams and a last exercises that asked to record the candidate's voice answering a question presented on the screen. Later, the employers could download all the information and check it out and also filter for the kind of candidates they wanted.</p>
-<p align="justify">Another app I created for them was called Desk. It was a set of some extra functions that were not available on the application they used to manage all the information of the students and classes.</p>
+<p align="justify">The apps that I created helped the school a lot, and I have two of them here in my Github (<a href="https://github.com/rafael-figueiredo-alves/eRAMs">eRAMs</a> and <a href="https://github.com/rafael-figueiredo-alves/eAtasOrais">eAtasOrais</a>). Unfortunately, for some of these apps, I don't have their source codes anymore, and I don't have screenshots either. One of the most admirable apps I've built for CCAA was an app that helps the school's teachers hiring. It had a questionaire of randomic questions, some with audio like international exams and a last exercise that asked to record the candidate's voice answering a question presented on the screen. Later, the employers could download all the information and check it out and also filter for the kind of candidates they wanted.</p>
+<p align="justify">Another app I created for them was called <b>Desk</b>. It was a set of some extra functions that were not available on the application they used to manage all the information of the students and classes.</p>
 
 <a name="Projects"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/projects.png"></a><br>
 
 <figure>
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eTasks.png">
    <figcaption>My latest personal project <a href="https://github.com/rafael-figueiredo-alves/eTasks">eTasks</a> is a simple, but funny to-do app</figcaption>
-</figure>   
+</figure>
+
+<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eTasks"><b>eTasks</b></a> is my latest project. It's a to-do app focused on managing tasks in a funny way. Besides, it lets you register your personal goals and keep track on supermarket lists in a easy and funny way. I used Delphi to make it. I built it for Windows (32x and 64x) and for Android. It was a great learning experience. Some of the things I learned are:</p>
+* MVC
+* Clean code
+* Interfaces on Delphi
+* Android permissions
+* Firebase
+* Keyboard tricks
+* Android development
+* Building components
+
+<figure>
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Desk_1.png">
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Desk_2.png">   
+   <figcaption>My latest personal project <a href="https://github.com/rafael-figueiredo-alves/eTasks">eTasks</a> is a simple, but funny to-do app</figcaption>
+</figure>
 
 <a name="Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/statistics.png"></a><br>
 
@@ -112,7 +128,7 @@
 
 <img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/linkedin.png">
 
-## Check out my Linkedin
+## Check out my LinkedIn
 [www.linkedin.com/in/rafael-de-figueiredo-alves](www.linkedin.com/in/rafael-de-figueiredo-alves)
 
 <img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/site.png">
