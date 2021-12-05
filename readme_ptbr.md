@@ -1,15 +1,15 @@
 <p align="right"><a href="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/readme.md"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/English.png" height="40"></a></p>
 
-![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Intro.png)
+![Top_banner_introduction](https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/Intro.png)
 
-<a name="Index"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Index.png"></a><br>
-<a id="Menu_AboutMe" href="#About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_aboutme.png" height="40"></a>
-<a id="Menu_Languages" href="#Languages"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_languages.png" height="40"></a>
-<a id="Menu_Tools" href="#Tools"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_tools.png" height="40"></a>
-<a id="Menu_experience" href="#Experience"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_experience.png" height="40"></a>
-<a id="Menu_Projects" href="#Projects"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_projects.png" height="40"></a>
-<a id="Menu_Statistics" href="#Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_statistics.png" height="40"></a>
-<a id="Menu_keepInTouch" href="#KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/menu_keepintouch.png" height="40"></a>
+<a name="Index"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/indice.png"></a><br>
+<a id="Menu_AboutMe" href="#About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/menu_sobremim.png" height="40"></a>
+<a id="Menu_Languages" href="#Languages"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/menu_linguagens.png" height="40"></a>
+<a id="Menu_Tools" href="#Tools"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/menu_ferramentas.png" height="40"></a>
+<a id="Menu_experience" href="#Experience"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/menu_experiencia.png" height="40"></a>
+<a id="Menu_Projects" href="#Projects"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/menu_projetos.png" height="40"></a>
+<a id="Menu_Statistics" href="#Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/menu_estat%C3%ADsticas.png" height="40"></a>
+<a id="Menu_keepInTouch" href="#KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/menu_meuscontatos.png" height="40"></a>
 
 <a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/about.png"></a><br>
 
