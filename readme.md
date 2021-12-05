@@ -105,7 +105,7 @@
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Desk_2.png">   
    <figcaption>This was an important project for me at my workplace, but, unfortunately, I don't have the source code anymore.</figcaption>
 </figure>
-
+<br><br>
 <p align="justify"><b>Desk</b> is one of my first big projects. It was an application focused on providing some extra functions to the main software my workplace used to use. It helped reduce the amount of paper my workplace used. Some of the things I learned are:</p>
 
 + Using Paradox and SQL Server
@@ -122,17 +122,41 @@
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eAtasOrais_4.png">
    <figcaption>A powerful app to automate the process of making a document to register the grades of students in a oral exam. It's a good example of integrating Delphi and VBA (Excel)</figcaption>
 </figure>
-
-<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eAtasOrais"><b>eAtasOrais</b></a> is my latest project. It's a to-do app focused on managing tasks in a funny way. Besides, it lets you register your personal goals and keep track on supermarket lists in a easy and funny way. I used Delphi to make it. I built it for Windows (32x and 64x) and for Android. It was a great learning experience. Some of the things I learned are:</p>
+<br><br>
+<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eAtasOrais"><b>eAtasOrais</b></a> is one of my best projects. Built on Delphi and taking advantage of VBA, it helped my workplace make the document to register students' performance on oral tests in a very simple and quick way. Some of the things I learned are:</p>
 
 + MVC
 + Clean code
 + Interfaces on Delphi
-+ Android permissions
-+ Firebase
-+ Keyboard tricks
-+ Android development
-+ Building components
++ VBA integration
++ FireDac
++ Excel
++ Styling in Delphi
++ SQL Server
++ SQL scripts
++ Design patterns
+
+## eRAMs
+
+<figure>
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eRAMs.png">
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eRAMs_2.png">
+   <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eRAMs_3.png">
+   <figcaption>Another good application I built with Delphi and VBA for my workplace that really helped make our work simpler and faster</figcaption>
+</figure>
+<br><br>
+<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eRAMs"><b>eRAMs</b></a> is another good example of an app that integrates Delphi and VBA. It made the creation of reports for students faster and simpler. Some of the things I learned are:</p>
+
++ MVC
++ Clean code
++ Interfaces on Delphi
++ VBA integration
++ FireDac
++ Excel
++ Styling in Delphi
++ SQL Server
++ SQL scripts
++ Design patterns
 
 <a name="Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/statistics.png"></a><br>
 
