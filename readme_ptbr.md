@@ -62,7 +62,7 @@
 
 <p align="justify">When it comes to designing, I love using Lunacy from Icons8. It's a great app, very simple and powerful. I developed posts for social networking sites and I develop the prototypes of my apps (eTasks prototype was entirely developed on Lunacy). I have watched some viodeos on Figma, I think it's interesting, but I really prefer Lunacy (even though I don't mind using any other design tool). To work with images, besides PowerPoint, I like to work with Gimp. It's free and it has really good resources.</p>
 
-# Code Editor and Git tools
+# Editor de Códigos e Ferramentas de Versionamento (GIT)
 
 <img id="vscode" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/VSCode.png"> <img id="github" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Github_2.png"> <img id="GIT" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Git.png"> <img id="GITLab" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/gitlab.png"> <img id="npm" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/npm.png">
 
