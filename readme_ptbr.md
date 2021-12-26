@@ -144,21 +144,23 @@
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eRAMs.png">
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eRAMs_2.png">
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eRAMs_3.png">
-   <figcaption>Another good application I built with Delphi and VBA for my workplace that really helped make our work simpler and faster</figcaption>
+   <figcaption>Um outro bom exemplo de software criado em Delphi que inegrava comm VBA para gerar automatização de relatórios de desempenho de alunos</figcaption>
 </figure>
 <br><br>
-<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eRAMs"><b>eRAMs</b></a> is another good example of an app that integrates Delphi and VBA. It made the creation of reports for students faster and simpler. Some of the things I learned are:</p>
+<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eRAMs"><b>eRAMs</b></a> é um outro excelente aplicativo que ilustra a possibilidade de integrar Delphi com Excel (VBA) onde gera-se relatórios de aproveitamento mensal de alunos através de poucos cliques para centenas de alunos. Algumas das coias que aprendi foram:</p>
 
 + MVC
 + Clean code
-+ Interfaces on Delphi
-+ VBA integration
++ Interfaces em Delphi
++ Programação Orientada a Objetos
++ Programação Orientada e eventos
++ Integração com VBA 
 + FireDac
 + Excel
-+ Styling in Delphi
++ Estilização em Delphi
 + SQL Server
 + SQL scripts
-+ Design patterns
++ Padrões de Projeto
 
 <a name="Statistics"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/estatisticas.png"></a><br>
 
