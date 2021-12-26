@@ -87,31 +87,31 @@
    <figcaption>Meu último projeto pessoal <a href="https://github.com/rafael-figueiredo-alves/eTasks">eTasks</a> é um simples, porém divertido aplicativo de listas de tarefas</figcaption>
 </figure>
 <br><br>
-<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eTasks"><b>eTasks</b></a> is my latest project. It's a to-do app focused on managing tasks in a funny way. Besides, it lets you register your personal goals and keep track on supermarket lists in a easy and funny way. I used Delphi to make it. I built it for Windows (32x and 64x) and for Android. It was a great learning experience. Some of the things I learned are:</p>
+<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eTasks"><b>eTasks</b></a> é o meu último projeto pessoal que eu desenvolvi inteiramente em Delphi. Ele é um aplicativo de gerenciamento de tarefas, de uma forma divertida e prática. Ele também pode ser usado para registrar suas metas e criar listas de mercado. Ele foi feito para o Windows (32 e 64 bits) e para Android. Algumas das coisas que eu aprendi fazendo este aplicativo foram:</p>
 
-+ MVC
-+ Clean code
-+ Interfaces on Delphi
-+ Android permissions
++ MVC (Padrão Model-View-Controller)
++ Clean code (boas práticas de código limpo)
++ Uso de Interfaces em Delphi
++ Permissões em Android
 + Firebase
-+ Keyboard tricks
-+ Android development
-+ Building components
++ Truques com teclado (especialmente no Android)
++ Desenvolvimento Android
++ Criação de componentes (caixas de mensagem personalizadas e componente de calendário)
 
 ## Desk
 
 <figure>
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Desk_1.png">
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/Desk_2.png">   
-   <figcaption>This was an important project for me at my workplace, but, unfortunately, I don't have the source code anymore.</figcaption>
+   <figcaption>Este foi um importante projeto no meu local de trabalho que, infelizmente, não tenho mais o código.</figcaption>
 </figure>
 <br><br>
-<p align="justify"><b>Desk</b> is one of my first big projects. It was an application focused on providing some extra functions to the main software my workplace used to use. It helped reduce the amount of paper my workplace used. Some of the things I learned are:</p>
+<p align="justify"><b>Desk</b> foi o meu primeiro grande projeto "profissional" criado para o meu local de trabalho. Ele ajudava a reduzir a quantidade de papel e acelerou diversos procedimentos no meu local de trabalho. Algumas das coisas que aprendi foram:</p>
 
-+ Using Paradox and SQL Server
++ Usar Paradox e SQL Server
 + CRUD
 + SQL scripts
-+ Making stunning interfaces (UI and UX experience)
++ Criar belas interfaces do Usuário (UI e UX)
 
 ## eAtasOrais
 
@@ -120,21 +120,23 @@
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eAtasOrais_2.png">
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eAtasOrais_3.png">
    <img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/eAtasOrais_4.png">
-   <figcaption>A powerful app to automate the process of making a document to register the grades of students in a oral exam. It's a good example of integrating Delphi and VBA (Excel)</figcaption>
+   <figcaption>Um poderoso app para gerar Atas Orais eletrônicas de forma automática. É um excelente exemplo de integração entre Delphi e VBA (Excel)</figcaption>
 </figure>
 <br><br>
-<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eAtasOrais"><b>eAtasOrais</b></a> is one of my best projects. Built on Delphi and taking advantage of VBA, it helped my workplace make the document to register students' performance on oral tests in a very simple and quick way. Some of the things I learned are:</p>
+<p align="justify"><a href="https://github.com/rafael-figueiredo-alves/eAtasOrais"><b>eAtasOrais</b></a> é um dos meus melhores trabalhos. É um software que integra VBA (Excel) e Delphi, e usa scripts em SQL Server para puxar informações e integrar meu app com o sistema que o grupo de unidades que eu trabalhei usava. Algumas das coisas que aprendi com este app gerador de Atas Orais automático foram:</p>
 
 + MVC
 + Clean code
-+ Interfaces on Delphi
-+ VBA integration
++ Interfaces em Delphi
++ Programação Orientada a Objetos
++ Programação Orientada e eventos
++ Integração com VBA 
 + FireDac
 + Excel
-+ Styling in Delphi
++ Estilização em Delphi
 + SQL Server
 + SQL scripts
-+ Design patterns
++ Padrões de Projeto
 
 ## eRAMs
 
