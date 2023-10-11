@@ -186,7 +186,7 @@
 <img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/linkedin.png">
 
 ## Check out my LinkedIn
-[www.linkedin.com/in/rafael-de-figueiredo-alves](www.linkedin.com/in/rafael-de-figueiredo-alves)
+[https://www.linkedin.com/in/rafael-de-figueiredo-alves](https://www.linkedin.com/in/rafael-de-figueiredo-alves)
 
 <img align="left" src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/site.png">
 
