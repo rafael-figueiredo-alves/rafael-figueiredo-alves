@@ -13,7 +13,7 @@
 
 <a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/sobremim.png"></a><br>
 
-<p align="justify">Olá! Meu nome é Rafael de Figueiredo Alves. Sou um homem de 37 anos, pai de dois filhos maravilhosos: minha filha Rafaela e meu filho Davi. Eu sou professor de inglês por cerca de 15 anos, na maior parte do tempo no CCAA. Porém, agora eu quero seguir uma carreira de desenvolvedor de software. Eu tenho estudado bastante para alcançar este objetivo. Eu venho aprendendo e trabalhando com <b>Delphi</b> desde de meus 12 anos de idade. Atualmente, eu tenho estudado bastante sobre <b>HTML5, CSS3 e JavaScript</b> e estou muito interessado no universo do <b>React.JS</b>, querendo criar projetos nessa biblioteca JavaScript.</p>
+<p align="justify">Olá! Meu nome é Rafael de Figueiredo Alves. Sou um homem de 39 anos, pai de dois filhos maravilhosos: minha filha Rafaela e meu filho Davi. Eu sou professor de inglês por cerca de 15 anos, na maior parte do tempo no CCAA. Porém, agora eu quero seguir uma carreira de desenvolvedor de software. Eu tenho estudado bastante para alcançar este objetivo. Eu venho aprendendo e trabalhando com <b>Delphi</b> desde de meus 12 anos de idade. Atualmente, eu tenho estudado bastante sobre <b>HTML5, CSS3 e JavaScript</b> e estou muito interessado no universo do <b>React.JS</b>, querendo criar projetos nessa biblioteca JavaScript.</p>
 
 <p align="justify">Minha esposa Jailza e meus filhos são o meu segredo para sucesso, pois eles sempre estão do meu lado quando preciso. E o sorriso deles é minha grande inspiração.</p>
 
