@@ -13,11 +13,11 @@
 
 <a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/about.png"></a><br>
 
-<p align="justify">Hi, there! My name's Rafael de Figueiredo Alves. I'm a 39-year-old father of two children: my daughter Rafaela and my son Davi. I've been an English teacher for about 15 years, most of them at CCAA. Now I'd like to become a software developer. I've been studying really hard to become a great developer. I've been learning and working with <b>Delphi</b> since I was 12 years old. Recently, I've been studying a lot of stuff related to <b>HTML5, CSS3 and JavaScript</b> and I'm really into <b>React.JS</b> now.</p>
+<p align="justify">Hi, there! My name's Rafael de Figueiredo Alves. I'm a 39-year-old father of two children: my daughter Rafaela and my son Davi. I was an English teacher for about 15 years, 13 of them at CCAA. Now I've become a software developer and I've been working at Rz Sistemas remotely. I've been studying really hard to learn even more about developing. I've been learning and working with <b>Delphi</b> since I was 12 years old. Recently, I've been studying a lot of stuff related to <b>HTML5, CSS3 and JavaScript</b> and <b>C#</b>b> and I'm really into <b>React.JS</b> now.</p>
 
 <p align="justify">My wife and kids are the secret of my success because they are the reason to keep me going and learning everything about computer programming.</p>
 
-<p align="justify">I haven't worked as developer yet, but I've developed a lot of kinds of softwares on my own and I also developed some solutions to the place (CCAA) where I worked for almost 13 years. I developed spreadsheets to help my workplace, as I did by developing some pieces of software using Delphi. The goal of all the softwares and solutions I developed was to help automate the processes at my workplace.</p> 
+<p align="justify">I've developed a lot of kinds of softwares on my own and I also developed some solutions to the place (CCAA) where I worked for almost 13 years. I developed spreadsheets to help my workplace, as I did by developing some pieces of software using Delphi. The goal of all the softwares and solutions I developed was to help automate the processes at my workplace.</p> 
 
 <p align="justify">Here are some of the operating systems I develop or I have plans to develop for:</p>
 
