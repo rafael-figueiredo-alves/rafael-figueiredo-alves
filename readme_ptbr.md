@@ -13,11 +13,11 @@
 
 <a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/sobremim.png"></a><br>
 
-<p align="justify">Olá! Meu nome é Rafael de Figueiredo Alves. Sou um homem de 39 anos, pai de dois filhos maravilhosos: minha filha Rafaela e meu filho Davi. Eu sou professor de inglês por cerca de 15 anos, na maior parte do tempo no CCAA. Porém, agora eu quero seguir uma carreira de desenvolvedor de software. Eu tenho estudado bastante para alcançar este objetivo. Eu venho aprendendo e trabalhando com <b>Delphi</b> desde de meus 12 anos de idade. Atualmente, eu tenho estudado bastante sobre <b>HTML5, CSS3 e JavaScript</b> e estou muito interessado no universo do <b>React.JS</b>, querendo criar projetos nessa biblioteca JavaScript.</p>
+<p align="justify">Olá! Meu nome é Rafael de Figueiredo Alves. Sou um homem de 39 anos, pai de dois filhos maravilhosos: minha filha Rafaela e meu filho Davi. Eu fui professor de inglês por cerca de 15 anos, sendo 13 deles no CCAA. Porém, agora eu sou desenvolvedor de software na Rz Sistemas. Eu tenho estudado bastante para aprender ainda mais sobre o mundo do desenvolvimento. Eu venho aprendendo e trabalhando com <b>Delphi</b> desde de meus 12 anos de idade. Atualmente, eu tenho estudado bastante sobre <b>HTML5, CSS3 e JavaScript</b> e <b>C#</b>b e estou muito interessado no universo do <b>React.JS</b>, querendo criar projetos nessa biblioteca JavaScript.</p>
 
 <p align="justify">Minha esposa Jailza e meus filhos são o meu segredo para sucesso, pois eles sempre estão do meu lado quando preciso. E o sorriso deles é minha grande inspiração.</p>
 
-<p align="justify">Eu ainda não trabalhei como desenvolvedor, mas já desenvolvi diversas soluções de software em Delphi e em Excel para mim mesmo e para o meu local de trabalho (CCAA) por mais de 20 anos (13 só no trabalho). Eu desenvolvi vários controles em Excel para auxiliar o meu trabalho, tornando tarefas custosas em processos automatizados, agilizando tarefas e reduzindo o consumo de papel.</p> 
+<p align="justify">Já desenvolvi diversas soluções de software em Delphi e em Excel para mim mesmo e para o meu local de trabalho (CCAA) por mais de 20 anos (13 só no trabalho). Eu desenvolvi vários controles em Excel para auxiliar o meu trabalho, tornando tarefas custosas em processos automatizados, agilizando tarefas e reduzindo o consumo de papel.</p> 
 
 <p align="justify">Aqui está uma lista dos sistemas operacionais para os quais eu já desenvolvi ou desejo desenvolver no futuro:</p>
 
