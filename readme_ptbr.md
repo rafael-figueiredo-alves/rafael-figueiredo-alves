@@ -167,7 +167,7 @@
 
 <p align="justify">Segue abaixo algumas informações interessantes sobre minha conta Github, como total de estrelas, de Commits e outros. Espero que gostem das informações que separei.</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&custom_title=Estatísticas+do+Github+do+Rafael+Alves&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&custom_title=Estatísticas+do+Github+do+Rafael+Alves&show_icons=true&locale=pt-br)
 
 <p align="justify">Dê uma checada na quantidade de linhas que eu escrevi nas respectivas linguagens que estou aprendendo e trabalhando:</p>
 
