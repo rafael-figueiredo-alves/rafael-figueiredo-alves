@@ -171,7 +171,7 @@
 
 <p align="justify">Dê uma checada na quantidade de linhas que eu escrevi nas respectivas linguagens que estou aprendendo e trabalhando:</p>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&custom_title=Linguagens+Usadas+nos+Projetos)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&custom_title=Linguagens+Usadas+nos+Projetos&langs_count=20&hide=Objective-C,Swift,Scss,Kotlin,CMake,C,Cplus)
 </p>
 
 <a name="KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/contatos.png"></a><br>
