@@ -167,7 +167,7 @@
 
 <p align="justify">Check out how much I've been working (writing) in each of the languages I support.</p>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&custom_title=Languages+Used+in+Projects&langs_count=20&hide=Objective-C,Swift,Scss,Kotlin,CMake,C)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&custom_title=Languages+Used+in+Projects&langs_count=20&hide=Objective-C,Swift,Scss,Kotlin,CMake,C,C++)
 </p>
 
 <a name="KeepInTouch"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/en/keepinTouch.png"></a><br>
