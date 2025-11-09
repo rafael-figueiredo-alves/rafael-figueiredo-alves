@@ -13,7 +13,7 @@
 
 <a name="About"><img src="https://github.com/rafael-figueiredo-alves/rafael-figueiredo-alves/blob/main/Images/pt-br/sobremim.png"></a><br>
 
-<p align="justify">Olá! Meu nome é Rafael de Figueiredo Alves. Sou um homem de 41 anos, pai de dois filhos maravilhosos: minha filha Rafaela e meu filho Davi. Eu fui professor de inglês por cerca de 15 anos, sendo 13 deles no CCAA. Porém, agora eu sou desenvolvedor de software na Rz Sistemas. Eu tenho estudado bastante para aprender ainda mais sobre o mundo do desenvolvimento. Eu venho aprendendo e trabalhando com <b>Delphi</b> desde de meus 12 anos de idade. Atualmente, eu tenho estudado bastante sobre <b>Python, Go</b> e <b>Rust</b>b e estou muito interessado no universo do <b>Python</b>, querendo criar projetos nessa linguagem versátil e útil para data science e inteligência artificial.</p>
+<p align="justify">Olá! Meu nome é Rafael de Figueiredo Alves. Sou um homem de 41 anos, pai de dois filhos maravilhosos: minha filha Rafaela e meu filho Davi. Eu fui professor de inglês por cerca de 15 anos, sendo 13 deles no CCAA. Porém, agora eu sou desenvolvedor de software na Rz Sistemas. Eu tenho estudado bastante para aprender ainda mais sobre o mundo do desenvolvimento. Eu venho aprendendo e trabalhando com <b>Delphi</b> desde de meus 12 anos de idade. Atualmente, eu tenho estudado bastante sobre <b>Python, Go</b> e <b>Rust</b> e estou muito interessado no universo do <b>Python</b>, querendo criar projetos nessa linguagem versátil e útil para data science e inteligência artificial.</p>
 
 <p align="justify">Minha esposa Jailza e meus filhos são o meu segredo para sucesso, pois eles sempre estão do meu lado quando preciso. E o sorriso deles é minha grande inspiração.</p>
 
