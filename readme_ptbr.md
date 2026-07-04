@@ -55,8 +55,6 @@ Olá! Sou Rafael, desenvolvedor de software na RZ Sistemas. Passei muitos anos l
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rafael-figueiredo-alves?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&layout=compact&theme=tokyonight&locale=pt-br)
-
 ## Contato
 
 - E-mail: [rafael.figueiredo.alves@gmail.com](mailto:rafael.figueiredo.alves@gmail.com)
