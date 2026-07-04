@@ -53,7 +53,7 @@ Hi! I’m Rafael, a software developer at RZ Sistemas. I spent many years teachi
 
 ## GitHub statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafael-figueiredo-alves&show_icons=true&theme=tokyonight)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rafael-figueiredo-alves?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-figueiredo-alves&layout=compact&theme=tokyonight)
 
